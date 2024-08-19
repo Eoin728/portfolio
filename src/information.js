@@ -48,8 +48,9 @@ export const info = [
         description: "App that tracks workouts, developed using React Native",
         image: ezcntImage,
         bulletpoints: [
-            "Developed a cross-platform mobile application using React Native that tracks and records user workouts, helping users monitor progress and set fitness goals.",
-            "Created and integrated an SQL database to manage user data, ensuring secure and efficient storage of workout history, along with smooth implementation of complex queries.",
+            "Developed a versatile, cross-platform mobile application utilizing React Native, designed to help users effectively track and record their workouts. This app empowers users to monitor their progress over time, set personalized fitness goals, and stay motivated on their fitness journey.",
+            "Engineered and integrated a robust SQL database to securely manage and store user data, including workout history, progress metrics, and personalized settings. The database architecture supports efficient handling of complex queries, ensuring quick access to relevant data and a seamless user experience.",
+            "Designed and implemented an intuitive, user-friendly interface that enhances the overall user experience. Key features include real-time exercise logging, the ability to create and customize workout plans, and detailed progress tracking. The interface is optimized for both beginner and advanced users, providing a streamlined experience across different devices.",
         ],
         codelink: "https://github.com/Eoin728/EZCNT",
         otherlink: null,
